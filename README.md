@@ -21,15 +21,12 @@
 
 ---
 
+
+```markdown
 ## 🧠 Agent Pipeline
 
-```mermaid
-flowchart TD
-    A[Planner Agent] --> B[Content Writer Agent]
-    B --> C[Content Editor Agent]
-    C --> D[Tone Refiner Agent]
-    D --> E[Engagement Predictor]
-    E --> F[Final Blog Output + Optional Images]
+![Agent Pipeline Diagram](architecture.png)
+
 
 ---
 
