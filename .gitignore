@@ -1,0 +1,20 @@
+# Ignore virtual environments
+new_venv/
+venv/
+.env
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore Streamlit and temp files
+*.log
+*.sqlite
+*.db
+*.png
+*.jpg
+
+# Ignore model weights or large cache folders
+.cache/
+huggingface/

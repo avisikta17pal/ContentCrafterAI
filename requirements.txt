@@ -1,0 +1,25 @@
+# Core LLM APIs
+google-generativeai
+google-adk
+
+# LLM helpers
+openai
+langchain
+
+# Environment + UI
+python-dotenv
+streamlit
+
+# Image generation
+diffusers[torch]
+transformers
+torch
+
+# Image processing
+Pillow
+
+# Document generation
+python-docx
+
+# Hugging Face API + cache
+huggingface-hub
