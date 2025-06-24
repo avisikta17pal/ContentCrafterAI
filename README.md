@@ -3,6 +3,11 @@
 **ContentCrafter AI** is a powerful multi-agent blog generation platform built for the **Google Cloud Agent Hackathon**. It intelligently plans, writes, edits, tones, scores, and optionally illustrates full-length blog posts using **Gemini 1.5 Flash** and **Stable Diffusion v1.5**, exported directly to DOCX.
 
 ---
+Built for the [Google Cloud Agent Development Kit Hackathon](https://googlecloudmultiagents.devpost.com/)  
+🚨 **Fully working app**: [https://contentcrafterai.streamlit.app](https://contentcrafterai.streamlit.app)  
+📽️ [Watch demo video](https://youtu.be/zw3HZQJf8RQ)  
+🧵 Built by [Avisikta Pal](https://github.com/avisikta17pal) | [#adkhackathon](https://twitter.com/hashtag/adkhackathon)
+---
 
 ## 🔥 Features
 
