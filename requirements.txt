@@ -1,5 +1,6 @@
-# Core LLM APIs - Updated to new Google GenAI SDK
-google-genai>=1.0.0
+# Core LLM APIs
+google-generativeai
+google-adk
 
 # LLM helpers
 openai
@@ -9,8 +10,8 @@ langchain
 python-dotenv
 streamlit
 
-# Image generation - Separated for better compatibility
-diffusers
+# Image generation
+diffusers[torch]
 transformers
 torch
 
@@ -22,3 +23,4 @@ python-docx
 
 # Hugging Face API + cache
 huggingface-hub
+
