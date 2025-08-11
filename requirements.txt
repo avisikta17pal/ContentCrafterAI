@@ -1,25 +1,25 @@
 # Core LLM APIs
-google-generativeai==0.8.5
-google-adk==1.10.0
+google-generativeai
+google-adk
 
 # LLM helpers
-openai==1.99.6
-langchain==0.3.27
+openai
+langchain
 
 # Environment + UI
-python-dotenv==1.1.1
-streamlit==1.48.0
+python-dotenv
+streamlit
 
-# Image generation (pinned to working versions)
-diffusers[torch]==0.21.2
-transformers==4.31.0
-torch==2.0.1
+# Image generation
+diffusers[torch]
+transformers
+torch
 
 # Image processing
-Pillow==9.5.0
+Pillow
 
 # Document generation
-python-docx==1.2.0
+python-docx
 
 # Hugging Face API + cache
-huggingface-hub==0.16.4
+huggingface-hub
